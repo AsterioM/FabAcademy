@@ -1,5 +1,0 @@
-﻿"dface"= 80
-"joind"=10
-"P"=.3
-"thickness"=4
-"clear"=.2
