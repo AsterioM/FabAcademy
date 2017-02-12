@@ -1,5 +1,5 @@
-﻿"dface"= 60
+﻿"dface"=60
 "joind"=9
-"P"=1/3
 "thickness"=3.5
 "clear"=.1
+"P"=.4
