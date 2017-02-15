@@ -1,0 +1,6 @@
+﻿"printarea" = 300
+"hitg" = 500
+"perfil"= 20
+"clear"= .4
+"joind" = 45
+"joind2"= 20
