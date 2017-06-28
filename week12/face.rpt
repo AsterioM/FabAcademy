@@ -1,0 +1,62 @@
+*****************************************************************
+      SolidWorks Corporation - Informe de estado del procesador de IGES
+*****************************************************************
+=================================================================
+Información general
+=================================================================
+Enviando I.D. de producto de sistema  : 
+Recibiendo I.D. de producto de sistema: 
+Nombre de archivo                    : C:\Users\user\Documents\1_FabAcademy\week12_Skewb\face.igs
+Enviando sistema               : Rhinoceros ( Aug 10 2015 )
+Versión de preprocesador         : Trout Lake IGES 012 Aug 10 2015
+Fecha de creación del archivo           : 170420.145650
+Fecha de creación del modelo          : 170420.145650
+Unidades                        : MM
+Escala espacial del modelo            : 1
+Autor                       : 
+Organización                 : 
+
+
+=================================================================
+Información de procesamiento de entidades
+=================================================================
+
+
+=================================================================
+Análisis de precisión del archivo de IGES:
+=================================================================
+  Número de dígitos significativos más frecuente:               2
+  Número de dígitos significativos más alto:                     14
+  Número de dígitos significativos promedio:                 5.1816
+  Distancia máxima hasta el origen:                          107.735
+  Distancia mínima hasta el origen:                                0
+  Número de dígitos significativos efectivo:                   14
+
+
+=================================================================
+Resumen de entidades
+=================================================================
+-----------------------------------------------------------------
+Nombre de tipo                                         Número convertido
+---- ----                                         ----- ---------
+126  Rational B-spline curve                        136       136
+128  Rational B-spline surface                       16        16
+141  Boundary                                        15        15
+143  Bounded surface                                 15        15
+314  Color definition                                 1         1
+406  Property                                         1         1
+_________________________________________________________________
+
+
+=================================================================
+Resumen de resultados
+=================================================================
+Tipo de operación de SolidWorks                Número
+-----------------------                -----
+Operaciones sólidas1
+Operaciones de superficie0
+Operaciones de curvas/croquis0
+--------------------------------------------
+Hora de comienzo: jueves, abril 20, 2017 16:57:06
+Hora de finalización: jueves, abril 20, 2017 16:57:07
+Tiempo de procesamiento: 0 days, 00 hours, 00 mins, 01 secs
